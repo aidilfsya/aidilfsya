@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aidilfsya
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning cloud security, threat hunting and etc.
+- 🌱 I’m still learning .
 
 <!---
 aidilfsya/aidilfsya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
